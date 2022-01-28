@@ -1,0 +1,13 @@
+body{
+	background-color: ivory;
+	font-size: 1.5em;
+	font-family: "Lucida Console", "Courier New", monospace;
+
+}
+div{
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
