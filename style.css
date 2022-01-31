@@ -11,3 +11,18 @@ div{
   margin: 20px;
   padding: 20px;
 }
+#answer1{
+	visibility: hidden;
+}
+#answer2{
+	visibility: hidden;
+}
+#answer3{
+	visibility: hidden;
+}
+#answer4{
+	visibility: hidden;
+}
+#answer5{
+	visibility: hidden;
+}
