@@ -4,6 +4,7 @@ body{
 	font-family: "Lucida Console", "Courier New", monospace;
 
 }
+
 div{
   background-color: tomato;
   color: white;
@@ -11,18 +12,42 @@ div{
   margin: 20px;
   padding: 20px;
 }
+
 #answer1{
 	visibility: hidden;
 }
+
 #answer2{
 	visibility: hidden;
 }
+
 #answer3{
 	visibility: hidden;
 }
+
 #answer4{
 	visibility: hidden;
 }
-#answer5{
+
+
+#panel, #flip {
+  padding: 20px;
+  text-align: center;
+  background-color: SaddleBrown;
+  border: solid 2px black;
+}
+
+#panel {
+  padding: 20px;
+  display: none;
+ background-color: tomato; 
+}
+
+#ani {
 	visibility: hidden;
+	text-align:center;
+	background: tomato;
+	height: 100px;
+	width: 100px;
+	position: absolute;
 }
