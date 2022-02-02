@@ -13,19 +13,7 @@ div{
   padding: 20px;
 }
 
-#answer1{
-	visibility: hidden;
-}
-
-#answer2{
-	visibility: hidden;
-}
-
-#answer3{
-	visibility: hidden;
-}
-
-#answer4{
+#answer1, #answer2, #answer3, #answer4{
 	visibility: hidden;
 }
 

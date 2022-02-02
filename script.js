@@ -23,7 +23,6 @@ $(document).ready(function(){
 			p = p +1;
 			alert("wrong")
 		}
-		
 
 	});
 	$("#flip").click(function(){
